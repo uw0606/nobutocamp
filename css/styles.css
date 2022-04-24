@@ -210,7 +210,7 @@ ul {
   padding: 0;
   margin: 0;
 }
-#logosirongrill16 {
+#campersmittens {
   width: 100%;
   height: 100%;
   margin-top: 24px;
@@ -289,9 +289,8 @@ footer li a:hover {
     padding: 56px 0 8px;
   }
 
-
   .tab li a {
-    font-size: 8px;
+    font-size: 10px;
   }
 
   main {
