@@ -37,11 +37,10 @@
     'img/a.jpg',
     'img/b.jpg',
     'img/c.jpg',
-    'img/d.jpg',
   ];
   let currentIndex = 0;
 
-  const mainImage = document.getElementById('burner');
+  const mainImage = document.getElementById('opinelknife');
   mainImage.src = images[currentIndex];
 
   images.forEach((image, index) => {
