@@ -33,7 +33,7 @@ header h1 {
 .tab li a {
   display: inline-block;
   width: 100%;
-  font-size: 12px;
+  font-size: 20px;
   text-align: center;
   padding: 8px 0;
   color: #333;
@@ -290,7 +290,7 @@ footer li a:hover {
   }
 
   .tab li a {
-    font-size: 14px;
+    font-size: 12px;
   }
 
   main {
