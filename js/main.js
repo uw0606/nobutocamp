@@ -21,7 +21,7 @@
       document.getElementById(clickedItem.dataset.id).classList.add('active');
     });
     homeclick.addEventListener('click', () => {
-      window.location.href = "../../index.html"
+      window.location.href = "index.html"
     });
   });
 }
