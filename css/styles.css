@@ -290,6 +290,7 @@ footer li a:hover {
   }
 
   .tab li a {
+    padding: 4px 0;
     font-size: 10px;
   }
 
