@@ -376,6 +376,7 @@ footer li a:hover {
   .tab li a {
     font-size: 10px;
   }
+
   main {
     width: 300px;
     margin: 0 auto;
@@ -383,6 +384,15 @@ footer li a:hover {
   nav ul {
     width:284px;
   }
+  .thumbnails {
+    display: grid;
+    grid-template-columns: repeat(5, 56px);
+    gap: 5px;
+  }
+  .thumbnails img {
+    width: 56px;
+  }
+
 
   .othersite {
     font-size: 10px;
@@ -401,6 +411,5 @@ footer li a:hover {
     grid-auto-rows: 60px;
     gap: 16px;
   }
-
 
 }

@@ -30,11 +30,15 @@
 // サイトメニュー
 {
   const instrument = document.getElementById('instrument');
+  const rehearsal = document.getElementById('rehearsal');
   const clinic = document.getElementById('clinic');
   const map = document.getElementById('map');
   const camp = document.getElementById('camp');
     instrument.addEventListener('click', () => {
       window.location.href = "https://uw0606.github.io/uwtools/"
+   });
+   rehearsal.addEventListener('click', () => {
+      window.location.href = "https://uw0606.github.io/uwrehearsal/"
    });
     clinic.addEventListener('click', () => {
       window.location.href = "https://uw0606.github.io/uwclinic/"
